@@ -1,0 +1,9 @@
+# Local caches and operating-system files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Temporary Microsoft Office lock files
+~$*.docx
+~$*.doc
